@@ -15,4 +15,4 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/KumarP123IT/Expense-Tracer.git
